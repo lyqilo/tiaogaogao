@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: module40
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 507e22cbaf55e02499b014440349220f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c857b11088f6dcc43922354ccc927c30, type: 3}
+  - {fileID: 21300000, guid: fdc3ce102fc22094a8a1a17f378f66fc, type: 3}
+  - {fileID: 21300000, guid: c9020a2019313034083b20afa5992073, type: 3}
+  - {fileID: 21300000, guid: e8b30c70e56077d43b6ed96f48794916, type: 3}
+  - {fileID: 21300000, guid: ef266fa056b091a4fa66ed7bd06c6e1e, type: 3}
+  - {fileID: 21300000, guid: 1d020c31192f7604d9d0655215fc31f4, type: 3}
+  - {fileID: 21300000, guid: def3444164fce7e4c9cd192278e159f4, type: 3}
+  - {fileID: 21300000, guid: 7d581e61c00618349b919c12ecf5464c, type: 3}
+  - {fileID: 21300000, guid: 53724ca13ec2f1c45bef583fc0e6913f, type: 3}
+  - {fileID: 21300000, guid: 48fd3cd1a2fdac04db9a1521e3a42bf3, type: 3}
+  - {fileID: 21300000, guid: b63a21f1465235f438668a0e93bc76d1, type: 3}
+  - {fileID: 21300000, guid: 75b43ef11bf319c458bd1858a1cf6027, type: 3}
+  - {fileID: 21300000, guid: 3d91cc423d64177468643454e9c817af, type: 3}
+  - {fileID: 21300000, guid: fe5b4923c29c8784585c3876e6a8b568, type: 3}
+  - {fileID: 21300000, guid: 7d775c73b0f7ce94fbc549d8a0487869, type: 3}
+  - {fileID: 21300000, guid: 7ab4a2a3728f45659e6b5c0c0d692ac7, type: 3}
+  - {fileID: 21300000, guid: 93e66584193547258a4f1ae42f15fc1f, type: 3}
+  - {fileID: 21300000, guid: 4c88ab94e0f779c43bc9030b3d13f695, type: 3}
+  - {fileID: 21300000, guid: 035a71f406e9d8d4c9a61b18505a43eb, type: 3}
+  - {fileID: 21300000, guid: af3eb335a9aa2ea468b02bb3d9a0f9f4, type: 3}
+  - {fileID: 21300000, guid: 039c6b555ac2495faea8bd77adbfdc90, type: 3}
+  - {fileID: 21300000, guid: 61c46795ba3f4214830e052ff37e807e, type: 3}
+  - {fileID: 21300000, guid: e7149636e890e2742af311f6ea1168aa, type: 3}
+  - {fileID: 21300000, guid: e706c55685e95f94d813e86bba524b6e, type: 3}
+  - {fileID: 21300000, guid: b818d1a68c4f6184aad7ef6d15a5df38, type: 3}
+  - {fileID: 21300000, guid: 4bf10507ae71ca44b8041fd06941bed1, type: 3}
+  - {fileID: 21300000, guid: cfcad11767a3f254bbcc16dad75bd3c7, type: 3}
+  - {fileID: 21300000, guid: 4ad258476a8df74429a35f9d2ce4e827, type: 3}
+  - {fileID: 21300000, guid: 41e8be57d4280a44d886552f65331e24, type: 3}
+  - {fileID: 21300000, guid: af32b7a71897a0346875273bfcd5ea5f, type: 3}
+  - {fileID: 21300000, guid: 9b4799c7751c0f54680d9308b3f53309, type: 3}
+  - {fileID: 21300000, guid: e0195f68c05d7eb4e958bb42c647f979, type: 3}
+  - {fileID: 21300000, guid: 99838e98106dbf145b19fce8792cd685, type: 3}
+  - {fileID: 21300000, guid: aac3d1c8852ca0b438d538ae3c8d175d, type: 3}
+  - {fileID: 21300000, guid: d9a62739e9bb0884cb78bdf9d4864e8a, type: 3}
+  - {fileID: 21300000, guid: 8d7dfe6910e175c46afa929aeffe3cd8, type: 3}
+  - {fileID: 21300000, guid: 7937639981a62a64fbc510b0a726de9a, type: 3}
+  - {fileID: 21300000, guid: 569ddee95815b1241a962fccba92f0e2, type: 3}
+  - {fileID: 21300000, guid: b5936a1a685cf4d46b4b01f51d7087b3, type: 3}
+  - {fileID: 21300000, guid: 862dba7a7cd728c4ca5c9edd6ba89d58, type: 3}
+  - {fileID: 21300000, guid: 7c04b7ba557fcc74581062f2a9158b1a, type: 3}
+  - {fileID: 21300000, guid: ff086a4bdca752744aaab6f8fdb8d1e9, type: 3}
+  - {fileID: 21300000, guid: bab224ab119eda84a92acca2715920b3, type: 3}
+  - {fileID: 21300000, guid: 9ec4d3cb784d08340ade4d449af8c1f0, type: 3}
+  - {fileID: 21300000, guid: bf360e8cc5f02e44cb2b435644942fcb, type: 3}
+  - {fileID: 21300000, guid: a393ec1dc02356c4d908d87749f74178, type: 3}
+  - {fileID: 21300000, guid: f14b7f9d1a57cbc468609a31515cfb35, type: 3}
+  - {fileID: 21300000, guid: eb8ce0cdbc60a304cabb45687da7f833, type: 3}
+  - {fileID: 21300000, guid: 87ec3acd7cef6114ca619dd0e4908742, type: 3}
+  - {fileID: 21300000, guid: 07105c2e517740242b61d56a692a5be6, type: 3}
+  - {fileID: 21300000, guid: 84a7343e50826b34fb6c04336be87495, type: 3}
+  - {fileID: 21300000, guid: a413444e76baefb48a040c75aa235f4d, type: 3}
+  - {fileID: 21300000, guid: 7215e78e38ac8624ba4c85913a57fe6e, type: 3}
+  - {fileID: 21300000, guid: e6c649ced0f5da44d8b1e661fd39cc82, type: 3}
+  - {fileID: 21300000, guid: 6196390f59f382a44b7208ddbad211fb, type: 3}
+  - {fileID: 21300000, guid: 6cba086f253c45043949df5ce7f93df2, type: 3}
+  - {fileID: 21300000, guid: f9c838ef4aa528e4fa7d90b95612297a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bangzhu
+  - zi_tingzhi
+  - 5
+  - megawin
+  - jia1
+  - zi_zhongjiang
+  - tgg_3
+  - di_1
+  - 2
+  - gaun
+  - Btn_1
+  - jia2
+  - tgg_2
+  - kuang3
+  - superwin
+  - cleanse_flash_sheet_blue
+  - cleanse_flash_sheet
+  - tgg_5
+  - 3
+  - tingzhizidong
+  - jb
+  - xiaokuang
+  - kuang2
+  - image_2020_07_03T14_05_02_972Z.png
+  - 9
+  - tgg_6
+  - 4
+  - kuang1
+  - bigwin
+  - mianfeiyouxi
+  - Btn_yinliangkai
+  - img_help1
+  - jia3
+  - image_2020_07_03T14_05_02_972Z.png
+  - di_2
+  - 7
+  - zi_kaishi
+  - 10
+  - 8
+  - tgg_1two
+  - img_help5
+  - Btn_yinliangguan
+  - fj
+  - tgg_4
+  - 6
+  - mask
+  - win
+  - img_help3
+  - Btn_fanhui
+  - Btn_2
+  - img_help4
+  - zidong
+  - guize_help2
+  - Btn_jian
+  - Btn_jia
+  - gongxiyingde
+  - 1
+  m_RenderDataMap: {}
+  m_Tag: module40
+  m_IsVariant: 0
