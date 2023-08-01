@@ -95,13 +95,13 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 1d020c31192f7604d9d0655215fc31f4, type: 3}
   - {fileID: 21300000, guid: def3444164fce7e4c9cd192278e159f4, type: 3}
   - {fileID: 21300000, guid: 7d581e61c00618349b919c12ecf5464c, type: 3}
-  - {fileID: 21300000, guid: c5c507919a777434a923d2c814bab576, type: 3}
   - {fileID: 21300000, guid: 53724ca13ec2f1c45bef583fc0e6913f, type: 3}
   - {fileID: 21300000, guid: 48fd3cd1a2fdac04db9a1521e3a42bf3, type: 3}
   - {fileID: 21300000, guid: b63a21f1465235f438668a0e93bc76d1, type: 3}
   - {fileID: 21300000, guid: 75b43ef11bf319c458bd1858a1cf6027, type: 3}
   - {fileID: 21300000, guid: a621aa22339ffc3479e47e57164464e9, type: 3}
   - {fileID: 21300000, guid: 3d91cc423d64177468643454e9c817af, type: 3}
+  - {fileID: 21300000, guid: f9e063529cfd72447afb57c5dfd49c56, type: 3}
   - {fileID: 21300000, guid: ea29f9725944bd34c978e75f43a67651, type: 3}
   - {fileID: 21300000, guid: f26edb03f74aa0546b2840cb61437e1b, type: 3}
   - {fileID: 21300000, guid: fe5b4923c29c8784585c3876e6a8b568, type: 3}
@@ -111,7 +111,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: edc836a3b21a49d47a1e9058c137e6e6, type: 3}
   - {fileID: 21300000, guid: a28c80f33863d634fb382a2bcbc1cae7, type: 3}
   - {fileID: 21300000, guid: 93e66584193547258a4f1ae42f15fc1f, type: 3}
-  - {fileID: 21300000, guid: 0a34899404982794a8b7555d0412a862, type: 3}
   - {fileID: 21300000, guid: 4c88ab94e0f779c43bc9030b3d13f695, type: 3}
   - {fileID: 21300000, guid: ccf34c943cade4249a3208add2c4f413, type: 3}
   - {fileID: 21300000, guid: 035a71f406e9d8d4c9a61b18505a43eb, type: 3}
@@ -159,6 +158,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 07105c2e517740242b61d56a692a5be6, type: 3}
   - {fileID: 21300000, guid: 84a7343e50826b34fb6c04336be87495, type: 3}
   - {fileID: 21300000, guid: a413444e76baefb48a040c75aa235f4d, type: 3}
+  - {fileID: 21300000, guid: 7215e78e38ac8624ba4c85913a57fe6e, type: 3}
   - {fileID: 21300000, guid: e6c649ced0f5da44d8b1e661fd39cc82, type: 3}
   - {fileID: 21300000, guid: 6196390f59f382a44b7208ddbad211fb, type: 3}
   - {fileID: 21300000, guid: 63c5f72f32dc52043a943006410ac8e4, type: 3}
@@ -175,13 +175,13 @@ SpriteAtlas:
   - zi_zhongjiang
   - tgg_3
   - di_1
-  - tgg_icon
   - 2
   - gaun
   - Btn_1
   - jia2
   - tgg_pic_6
   - tgg_2
+  - tgg_icon
   - tgg_pic_5
   - tgg_pic_2
   - kuang3
@@ -191,7 +191,6 @@ SpriteAtlas:
   - tgg_pic_3
   - tgg_pic_6_1
   - cleanse_flash_sheet
-  - guize_help2 1
   - tgg_5
   - tgg_icon_4
   - 3
@@ -239,6 +238,7 @@ SpriteAtlas:
   - Btn_2
   - img_help4
   - zidong
+  - guize_help2
   - Btn_jian
   - Btn_jia
   - tgg_btn_5
