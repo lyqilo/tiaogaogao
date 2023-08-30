@@ -90,7 +90,9 @@ SpriteAtlas:
   - {fileID: 21300000, guid: fdc3ce102fc22094a8a1a17f378f66fc, type: 3}
   - {fileID: 21300000, guid: c9020a2019313034083b20afa5992073, type: 3}
   - {fileID: 21300000, guid: c0951d3076ed4c643a1761181ff50173, type: 3}
+  - {fileID: 21300000, guid: bfcbdc6059aa97b49b1e05081c60295e, type: 3}
   - {fileID: 21300000, guid: e8b30c70e56077d43b6ed96f48794916, type: 3}
+  - {fileID: 21300000, guid: 9ab2709078a54424cba4aa4d56f74a90, type: 3}
   - {fileID: 21300000, guid: ef266fa056b091a4fa66ed7bd06c6e1e, type: 3}
   - {fileID: 21300000, guid: d6f56cb0d5156cb46aae007748a42cbb, type: 3}
   - {fileID: 21300000, guid: 1d020c31192f7604d9d0655215fc31f4, type: 3}
@@ -104,6 +106,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 3d91cc423d64177468643454e9c817af, type: 3}
   - {fileID: 21300000, guid: f9e063529cfd72447afb57c5dfd49c56, type: 3}
   - {fileID: 21300000, guid: ea29f9725944bd34c978e75f43a67651, type: 3}
+  - {fileID: 21300000, guid: 895c7be232433cb4d97bffc64a252408, type: 3}
   - {fileID: 21300000, guid: f26edb03f74aa0546b2840cb61437e1b, type: 3}
   - {fileID: 21300000, guid: fe5b4923c29c8784585c3876e6a8b568, type: 3}
   - {fileID: 21300000, guid: bd831863a13ff474894251a6468567e3, type: 3}
@@ -114,31 +117,39 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 93e66584193547258a4f1ae42f15fc1f, type: 3}
   - {fileID: 21300000, guid: 4c88ab94e0f779c43bc9030b3d13f695, type: 3}
   - {fileID: 21300000, guid: ccf34c943cade4249a3208add2c4f413, type: 3}
+  - {fileID: 21300000, guid: 551350c48a1c53345b7df12cfd6a7138, type: 3}
   - {fileID: 21300000, guid: 035a71f406e9d8d4c9a61b18505a43eb, type: 3}
   - {fileID: 21300000, guid: af3eb335a9aa2ea468b02bb3d9a0f9f4, type: 3}
+  - {fileID: 21300000, guid: 25a29c358af31cc43a8f712364bb6cb8, type: 3}
   - {fileID: 21300000, guid: 039c6b555ac2495faea8bd77adbfdc90, type: 3}
   - {fileID: 21300000, guid: 1616d785e0deb5e46b851c9def531dbd, type: 3}
   - {fileID: 21300000, guid: 61c46795ba3f4214830e052ff37e807e, type: 3}
+  - {fileID: 21300000, guid: 86c909b5d6754c54b9adae53c2f78832, type: 3}
   - {fileID: 21300000, guid: bc5c74e5857040645a33fea8dbd26676, type: 3}
   - {fileID: 21300000, guid: e7149636e890e2742af311f6ea1168aa, type: 3}
   - {fileID: 21300000, guid: e706c55685e95f94d813e86bba524b6e, type: 3}
   - {fileID: 21300000, guid: b818d1a68c4f6184aad7ef6d15a5df38, type: 3}
+  - {fileID: 21300000, guid: 09436da66f9f3c84692f7f43ab620249, type: 3}
   - {fileID: 21300000, guid: 4bf10507ae71ca44b8041fd06941bed1, type: 3}
   - {fileID: 21300000, guid: cfcad11767a3f254bbcc16dad75bd3c7, type: 3}
   - {fileID: 21300000, guid: 34a13e1726c68954598eb7367dd34481, type: 3}
   - {fileID: 21300000, guid: 4ad258476a8df74429a35f9d2ce4e827, type: 3}
+  - {fileID: 21300000, guid: 496fb5573e0c68f48876624e2a35fabc, type: 3}
   - {fileID: 21300000, guid: 41e8be57d4280a44d886552f65331e24, type: 3}
   - {fileID: 21300000, guid: 534b077737100924eb4b064aff61d5c4, type: 3}
   - {fileID: 21300000, guid: deba7997d4784b34b95be6f59169f861, type: 3}
   - {fileID: 21300000, guid: 973f94a7ba58e714aa72d996be42b493, type: 3}
   - {fileID: 21300000, guid: af32b7a71897a0346875273bfcd5ea5f, type: 3}
   - {fileID: 21300000, guid: 9b4799c7751c0f54680d9308b3f53309, type: 3}
+  - {fileID: 21300000, guid: c02e29489e6a54b43b9bf5a20565ac5a, type: 3}
   - {fileID: 21300000, guid: b6819e68e5b9cee4a9f29e1fd4679919, type: 3}
   - {fileID: 21300000, guid: e0195f68c05d7eb4e958bb42c647f979, type: 3}
   - {fileID: 21300000, guid: 3fc5e598f045611498f24a4299171afc, type: 3}
   - {fileID: 21300000, guid: 99838e98106dbf145b19fce8792cd685, type: 3}
   - {fileID: 21300000, guid: aac3d1c8852ca0b438d538ae3c8d175d, type: 3}
   - {fileID: 21300000, guid: 8c057fd8783f02e48858ee28957e11ec, type: 3}
+  - {fileID: 21300000, guid: 0afad5e8ef0ca594193c9965d29f5c73, type: 3}
+  - {fileID: 21300000, guid: b6408c19267586c429e611a3d82c613d, type: 3}
   - {fileID: 21300000, guid: d9a62739e9bb0884cb78bdf9d4864e8a, type: 3}
   - {fileID: 21300000, guid: 8d7dfe6910e175c46afa929aeffe3cd8, type: 3}
   - {fileID: 21300000, guid: 7937639981a62a64fbc510b0a726de9a, type: 3}
@@ -147,12 +158,15 @@ SpriteAtlas:
   - {fileID: 21300000, guid: b5936a1a685cf4d46b4b01f51d7087b3, type: 3}
   - {fileID: 21300000, guid: 862dba7a7cd728c4ca5c9edd6ba89d58, type: 3}
   - {fileID: 21300000, guid: 7c04b7ba557fcc74581062f2a9158b1a, type: 3}
+  - {fileID: 21300000, guid: b835d82bdc41fec48962213e88abab13, type: 3}
   - {fileID: 21300000, guid: ff086a4bdca752744aaab6f8fdb8d1e9, type: 3}
   - {fileID: 21300000, guid: bab224ab119eda84a92acca2715920b3, type: 3}
   - {fileID: 21300000, guid: 9ec4d3cb784d08340ade4d449af8c1f0, type: 3}
   - {fileID: 21300000, guid: bf360e8cc5f02e44cb2b435644942fcb, type: 3}
   - {fileID: 21300000, guid: 63fec1bc8957d604ebdf8749e2ab5c7d, type: 3}
   - {fileID: 21300000, guid: a393ec1dc02356c4d908d87749f74178, type: 3}
+  - {fileID: 21300000, guid: e301de1d76e250d42bb81905e37c4b16, type: 3}
+  - {fileID: 21300000, guid: c36d407d92e32b14999662e66cb9e536, type: 3}
   - {fileID: 21300000, guid: f14b7f9d1a57cbc468609a31515cfb35, type: 3}
   - {fileID: 21300000, guid: eb8ce0cdbc60a304cabb45687da7f833, type: 3}
   - {fileID: 21300000, guid: 87ec3acd7cef6114ca619dd0e4908742, type: 3}
@@ -169,7 +183,9 @@ SpriteAtlas:
   - zi_tingzhi
   - 5
   - tgg_pic_1
+  - tgg3
   - megawin
+  - tgg1
   - jia1
   - tgg_icon_2
   - zi_zhongjiang
@@ -183,6 +199,7 @@ SpriteAtlas:
   - tgg_2
   - tgg_icon
   - tgg_pic_5
+  - coin_tex
   - tgg_pic_2
   - kuang3
   - tgg_icon_6
@@ -193,31 +210,39 @@ SpriteAtlas:
   - cleanse_flash_sheet
   - tgg_5
   - tgg_icon_4
+  - clip-sy_tex
   - 3
   - tingzhizidong
+  - guize_help2
   - jb
   - tgg_pic_4
   - xiaokuang
+  - SGXML_Gold 1
   - tgg_btn_7
   - kuang2
   - image_2020_07_03T14_05_02_972Z.png
   - 9
+  - clip-e_tex
   - tgg_6
   - 4
   - tgg_icon_1
   - kuang1
+  - clip-s_tex
   - bigwin
   - tgg_btn_2
   - tgg_btn_1
   - tgg_btn_3
   - mianfeiyouxi
   - Btn_yinliangkai
+  - tgg5
   - tgg_btn_4
   - img_help1
   - tgg_icon_5
   - jia3
   - image_2020_07_03T14_05_02_972Z.png
   - tgg_icon_3
+  - efx-bg_tex
+  - guize_help2 1
   - di_2
   - 7
   - zi_kaishi
@@ -226,12 +251,15 @@ SpriteAtlas:
   - 8
   - tgg_1two
   - img_help5
+  - tgg2
   - Btn_yinliangguan
   - fj
   - tgg_4
   - 6
   - tgg_btn_6
   - mask
+  - tgg4
+  - tgg6
   - win
   - img_help3
   - Btn_fanhui
